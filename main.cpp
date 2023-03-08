@@ -8,7 +8,7 @@ int main()
     while (true)
     {
         char mode;
-        std::cout << '\n' << "Enter 1 to enter the chat \nEnter 2 to register in the chat \nEnter 3 to exit the program \n";
+        std::cout << "\nEnter 1 to enter the chat \nEnter 2 to register in the chat \nEnter 3 to exit the program \n";
         std::cin >> mode;
         try
         {
